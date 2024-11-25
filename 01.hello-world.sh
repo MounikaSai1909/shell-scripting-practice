@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "HELLO , GOOD MORNING "
+echo "Hello , Good Morning "
